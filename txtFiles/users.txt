@@ -1,0 +1,5 @@
+userID,userName,password,userType,userEmail,userContact,userStatus
+A001,John Doe,John_1234,Admin,john@gmail.com,012-36547890,Active
+S001,Jane Doe,Jane_5678,Staff,jane@gmail.com,019-87654321,Active
+A002,Alice Smith,Alice_2345,Admin,alice@gmail.com,011-22334455,Active
+S002,Bob,Bob__5678,Staff,bob123@gmail.com,012-33445566,Active

@@ -1,0 +1,5 @@
+hospitalCode,hospitalName,hospitalEmail,hospitalContact,hospitalStatus
+H001,Selangor General Hospital,sgeneral@hospital.gov.my,03-11112222,Active
+H002,Kuala Lumpur City Hospital,klcity@hospital.gov.my,03-33334444,Active
+H003,Penang Island Medical Center,penangmed@hospital.gov.my,03-55556666,Active
+H004,Johor State Hospital,johorstate@hospital.gov.my,03-77778888,Active

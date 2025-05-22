@@ -1,0 +1,7 @@
+supplierCode,supplierName,supplierEmail,supplierContact,supplierStatus
+SU001,MedSupply Sdn Bhd,contact@medsupply.com,03-23456789,Active
+SU002,HealthLine Distributors,support@healthline.com,03-44556677,Active
+SU003,SafeGuard Medical Supplies,sales@safeguardmed.com,03-55667788,Active
+SU004,BioMed Logistics,info@biomedlogistics.com,03-66778899,Active
+SU005,Supplier Test,testSupplier@gmail.com,03-45789310,Deleted
+SU006,Test2,Test2@gmail.com,03-11223344,Deleted

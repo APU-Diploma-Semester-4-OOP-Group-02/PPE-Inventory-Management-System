@@ -1,0 +1,68 @@
+datetime,userID,action,details
+2025-03-19 19:55:43,A001,Failed Login,Invalid credentials
+2025-03-19 19:55:49,A001,Login,User logged into the system
+2025-03-19 19:55:56,A001,Assign Supplier,Assigned supplier for item FS to SU002
+2025-03-19 19:56:05,A001,Assign Supplier,Assigned supplier for item GW to SU001
+2025-03-19 19:56:10,A001,Assign Supplier,Assigned supplier for item MS to SU003
+2025-03-19 19:56:14,A001,Assign Supplier,Assigned supplier for item HC to SU004
+2025-03-19 19:56:17,A001,Assign Supplier,Assigned supplier for item GL to SU001
+2025-03-19 19:56:21,A001,Assign Supplier,Assigned supplier for item SC to SU003
+2025-03-19 19:56:31,A001,Transaction,Item GL | Received: 10 | Distributed: 0
+2025-03-19 19:56:37,A001,Transaction,Item GL | Received: 0 | Distributed: 25
+2025-03-19 19:56:44,A001,Transaction,Item MS | Received: 15 | Distributed: 0
+2025-03-19 19:56:50,A001,Transaction,Item SC | Received: 30 | Distributed: 0
+2025-03-19 19:56:57,A001,Transaction,Item SC | Received: 0 | Distributed: 50
+2025-03-19 19:57:06,A001,Transaction,Item FS | Received: 0 | Distributed: 35
+2025-03-19 19:57:15,A001,Transaction,Item GW | Received: 0 | Distributed: 20
+2025-03-19 19:57:22,A001,Transaction,Item HC | Received: 0 | Distributed: 80
+2025-03-19 19:57:31,A001,Transaction,Item HC | Received: 30 | Distributed: 0
+2025-03-19 19:57:45,A001,Transaction,Item HC | Received: 0 | Distributed: 35
+2025-03-19 19:57:59,A001,Transaction,Item GL | Received: 0 | Distributed: 45
+2025-03-19 19:58:07,A001,Transaction,Item GL | Received: 0 | Distributed: 20
+2025-03-21 20:00:53,A001,Transaction,Item GW | Received: 15 | Distributed: 0
+2025-03-21 20:01:04,A001,Transaction,Item GL | Received: 0 | Distributed: 15
+2025-03-21 20:01:11,A001,Transaction,Item GL | Received: 25 | Distributed: 0
+2025-03-28 20:01:25,A001,Transaction,Item HC | Received: 0 | Distributed: 15
+2025-03-28 20:01:35,A001,Transaction,Item HC | Received: 125 | Distributed: 0
+2025-03-28 20:01:49,A001,Transaction,Item MS | Received: 0 | Distributed: 60
+2025-04-04 20:02:00,A001,Transaction,Item GW | Received: 15 | Distributed: 0
+2025-04-04 20:02:51,S001,Login,User logged into the system
+2025-04-04 20:03:00,S001,Transaction,Item GL | Received: 20 | Distributed: 0
+2025-04-04 20:03:09,S001,Transaction,Item GW | Received: 0 | Distributed: 50
+2025-04-04 20:03:18,S001,Transaction,Item HC | Received: 0 | Distributed: 20
+2025-04-08 20:04:08,A002,Failed Login,Invalid credentials
+2025-04-08 20:04:18,A002,Login,User logged into the system
+2025-04-08 20:05:06,A002,Login,User logged into the system
+2025-04-08 20:06:31,A002,Add User,Added new staff S002
+2025-04-08 20:06:48,A002,Modify User,Modified S002's email
+2025-04-08 20:07:22,A002,Add Supplier,Added new supplier SU005
+2025-04-08 20:07:22,A002,Add Supplier,Added new supplier SU005
+2025-04-08 20:07:25,A002,Delete Supplier,Deleted SU005
+2025-04-08 20:07:40,A002,Transaction,Item HC | Received: 15 | Distributed: 0
+2025-04-16 20:07:50,A002,Transaction,Item HC | Received: 0 | Distributed: 20
+2025-04-16 20:07:59,A002,Transaction,Item HC | Received: 0 | Distributed: 30
+2025-04-16 20:08:37,A002,Transaction,Item FS | Received: 0 | Distributed: 50
+2025-04-16 20:08:44,A002,Transaction,Item HC | Received: 0 | Distributed: 30
+2025-04-16 20:09:00,A002,Transaction,Item SC | Received: 0 | Distributed: 30
+2025-04-16 20:09:10,A002,Transaction,Item HC | Received: 0 | Distributed: 30
+2025-04-16 20:10:24,S002,Login,User logged into the system
+2025-04-16 20:11:18,S002,Transaction,Item GW | Received: 0 | Distributed: 30
+2025-04-16 20:11:24,S002,Transaction,Item FS | Received: 30 | Distributed: 0
+2025-04-22 20:11:38,S002,Transaction,Item MS | Received: 30 | Distributed: 0
+2025-04-22 20:11:48,S002,Transaction,Item FS | Received: 0 | Distributed: 25
+2025-04-22 20:12:02,A001,Login,User logged into the system
+2025-04-22 20:12:37,A001,Add Supplier,Added new supplier SU006
+2025-04-22 20:12:37,A001,Add Supplier,Added new supplier SU006
+2025-04-22 20:13:52,A001,Transaction,Item EP | Received: 20 | Distributed: 0
+2025-04-22 20:13:58,A001,Transaction,Item EP | Received: 0 | Distributed: 45
+2025-04-22 20:14:04,A001,Delete Supplier,Deleted SU006
+2025-04-22 20:14:11,A001,Assign Supplier,Assigned supplier for item EP to SU003
+2025-04-22 20:14:38,A001,Transaction,Item GW | Received: 0 | Distributed: 15
+2025-05-02 20:15:00,A001,Transaction,Item GL | Received: 30 | Distributed: 0
+2025-05-02 20:15:07,A001,Transaction,Item EP | Received: 0 | Distributed: 15
+2025-05-02 20:15:12,A001,Transaction,Item EP | Received: 50 | Distributed: 0
+2025-05-02 20:15:25,A001,Transaction,Item MS | Received: 0 | Distributed: 30
+2025-05-02 20:17:09,S002,Login,User logged into the system
+2025-05-02 20:17:32,S002,Modify Personal Details,Modified password
+2025-05-02 20:17:41,S002,Transaction,Item GW | Received: 0 | Distributed: 10
+2025-05-02 20:17:47,S002,Transaction,Item GL | Received: 0 | Distributed: 30

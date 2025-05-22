@@ -1,0 +1,8 @@
+itemCode,itemName,supplierCode,quantityInStock
+HC,Head Cover,SU004,10
+FS,Face Shield,SU002,20
+MS,Mask,SU003,55
+GL,Gloves,SU001,50
+GW,Gown,SU001,5
+SC,Shoe Covers,SU003,50
+EP,Eye protection,SU003,60
