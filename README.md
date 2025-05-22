@@ -29,6 +29,13 @@ The system includes screenshots and instructions for all functions in the `Docum
 
 ---
 
+## 👨‍💻 Contributors
+
+- Lim Chee Xuan (TP075916)
+- Paureen Tan Nie Nie (TP075914)
+
+---
+
 ## 📚 License
 
 This project is for academic purposes and not licensed for commercial use. For educational reference only.
