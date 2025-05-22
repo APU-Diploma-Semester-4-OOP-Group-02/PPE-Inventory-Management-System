@@ -2,11 +2,10 @@
 
 This is a Java GUI application developed as a group project for the Object-Oriented Programming module (AAPP013-4-2-OOP) at Asia Pacific University. The system is designed to manage and track Personal Protective Equipment (PPE) inventory distributed to hospitals, while applying key Object-Oriented Programming principles.
 
-## 👥 Group Members
-- Paureen Tan Nie Nie (TP075914)
-- Lim Chee Xuan (TP075916)
+---
 
 ## 🧰 Features
+
 ### Admin:
 - Login and logout
 - User and entity management (Admin, Staff, Supplier, Hospital)
@@ -22,8 +21,14 @@ This is a Java GUI application developed as a group project for the Object-Orien
 - View transactions
 - Track inventory
 
+---
+
 ## 📖 User Manual
+
 The system includes screenshots and instructions for all functions in the `Documentation.pdf`.
 
-## 📄 License
-This project is for academic purposes only.
+---
+
+## 📚 License
+
+This project is for academic purposes and not licensed for commercial use. For educational reference only.
